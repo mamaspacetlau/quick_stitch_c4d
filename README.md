@@ -12,3 +12,9 @@ Unzip the downloaded zip file and put it in C4D's plugin folder.
 
 Youtube Link:
 https://youtu.be/tS6OjRC7nik
+
+
+#Quick Tip
+
+Make sure your object is editable and select edges where you want to make the stiches.
+Select QuickStitch and insert your object in the object field, and click Make Sticth.
