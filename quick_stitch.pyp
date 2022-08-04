@@ -24,7 +24,7 @@ def create_spline_from_splinedata(spData, arc, width, height):
         knots = spData.GetKnots()
         cnt = len(knots)
         arc.ResizeObject(cnt)
-        for i in xrange(cnt):
+        for i in range(cnt):
             pos = knots[i]["vPos"]
             tan_r = knots[i]["vTangentRight"]
             tan_l = knots[i]["vTangentLeft"]
